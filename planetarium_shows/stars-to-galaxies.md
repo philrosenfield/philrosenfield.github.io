@@ -1,35 +1,15 @@
-# Tour of the Solar System
-This show is nice for younger children because there is more light.
-https://nssdc.gsfc.nasa.gov/planetary/factsheet/
+# From Stars to Galaxies
+
 
 ## Overview
-Move from planet to planet asking kids what they see and adding facts as you go
+Starting with the northern hemisphere view of the night sky, discuss the life cycles of stars and touch on galaxies.
 
-## Start: Earth
-I either start at the Earth, perhaps zoomed in on our city or the building we are in.
-
-Zoom out and as our rocket ship lifts off the ground. Soon we see the Earth as a sphere, and we see the Moon.
-
-Q: Tell me how the Moon looks different than the Earth
-
-Common replies:
-* Earth is bigger -- moon is about a 1/4 the size of the earth -- if the earth were a pizza, the moon would be 2 slices.
-* Earth has water and clouds -- the moon has no atmosphere and no oceans! It's a rock sitting in cold cold outer space.
-
-## Mercury
-Zoom to the first planet -- the closest to the Sun.
-Q: Does Mercury remind you of any other world we've seen so far?
+## Start: Sky-view centered on the Orion Constellation
+Q: Does this constellation look familiar to anyone?
 
 Common replies:
 
-Silence. (Not sure how to rephrase this sometimes)
-
-Moon. Mercury is a lot like the moon, no oceans, not atmosphere. It's bigger than the moon but not by much.
-
-Other things to say:
-* Mercury has a huge iron core, so that makes it more like the Earth.
-* 1 year on mercury is 88 days. It rotates slower than it orbits. It takes mercury two years to make a full day!
-* The day side can be 800 F (hotter than your oven can get) and the night side can be -300 F (no atmosphere to move heat around)
+## Orion Nebula
 
 ## Venus
 Q: What planet is next?
