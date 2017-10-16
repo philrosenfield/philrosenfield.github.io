@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Folder MSRCommunityId="0" MSRComponentId="0" Permission="0" Name="NGC4993" Group="Explorer" Searchable="False" Type="Earth">
+  <VersionDependent>false</VersionDependent>
+  <Place MSRCommunityId="0" MSRComponentId="0" Permission="0" Thumbnail="http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1151565081" Name="NGC 4993" DataSetType="Sky" RA="13.163222220000009" Dec="-23.38416667" Constellation="" Classification="Unidentified" Magnitude="0" Distance="0" ZoomLevel="0.16384" Rotation="0" Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0.16384">
+    <Target>Undefined</Target>
+    <ForegroundImageSet>
+      <ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://www.worldwidetelescope.org/wwtweb/GetTile.aspx?q={1},{2},{3},1151565081" TileLevels="3" WidthFactor="1" Sparse="False" Rotation="-22.4200000000003" QuadTreeMap="0123" Projection="Tangent" Name="NGC 4993" FileType=".png" CenterY="-23.38329857737871" CenterX="197.4482387193658" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="0.039728387434809533" MeanRadius="0">
+        <Credits>ESA and NASA</Credits>
+        <CreditsUrl />
+        <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/tilethumb.aspx?name=1151565081</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+</Folder>
