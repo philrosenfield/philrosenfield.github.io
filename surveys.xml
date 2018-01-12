@@ -56,37 +56,31 @@
 	</ImageSet>
 	<ImageSet Name="GLIMPSE 360" DataSetType="Sky" RA="17.75" Dec="-28.9" Constellation="SGR" Classification="Galactic" Magnitude="0" Distance="0" ZoomLevel="0" Rotation="0"
 		Angle="0" DomeAlt="0" DomeAz="0" Opacity="100" AngularSize="0">
-		<ForegroundImageSet>
-			<ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="IR" Url="http://cdn.worldwidetelescope.org/wwtweb/g360.aspx?q={1},{2},{3}" TileLevels="12" WidthFactor="1" Sparse="False"
-				Rotation="0" QuadTreeMap="" Projection="Toast" Name="GLIMPSE 360" FileType=".png" CenterY="0" CenterX="0" BottomsUp="False" StockSet="False" ElevationModel="False"
-				OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="180" MeanRadius="0">
-				<Credits>NASA/JPL-Caltech/Univ. of Wisconsin. The GLIMPSE 360 survey was performed using the Spitzer Space Telescope.</Credits>
-				<CreditsUrl>http://www.astro.wisc.edu/sirtf/</CreditsUrl>
-				<ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=glimpsetn</ThumbnailUrl>
-			</ImageSet>
-		</ForegroundImageSet>
+		<ImageSet MSRCommunityId="0" MSRComponentId="0" Permission="0" Generic="False" DataSetType="Sky" BandPass="IR" Url="http://cdn.worldwidetelescope.org/wwtweb/g360.aspx?q={1},{2},{3}" TileLevels="12" WidthFactor="1" Sparse="False"
+			Rotation="0" QuadTreeMap="" Projection="Toast" Name="GLIMPSE 360" FileType=".png" CenterY="0" CenterX="0" BottomsUp="False" StockSet="False" ElevationModel="False"
+			OffsetX="0" OffsetY="0" BaseTileLevel="0" BaseDegreesPerTile="180" MeanRadius="0">
+			<Credits>NASA/JPL-Caltech/Univ. of Wisconsin. The GLIMPSE 360 survey was performed using the Spitzer Space Telescope.</Credits>
+			<CreditsUrl>http://www.astro.wisc.edu/sirtf/</CreditsUrl>
+			<ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=glimpsetn</ThumbnailUrl>
+		</ImageSet>
 	</ImageSet>
 	<ImageSet Name="GLIMPSE" DataSetType="Sky" RA="17.75" Dec="-28.9" Constellation="SGR" Classification="Galactic" Magnitude="0" ZoomLevel="0" Rotation="0" Angle="0"
 		Opacity="100" AngularSize="360">
-		<ForegroundImageSet>
-			<ImageSet Generic="False" DataSetType="Sky" BandPass="IR" Name="GLIMPSE/MIPSGAL" Url="http://www.worldwidetelescope.org/wwtweb/glimpse.aspx?q={1},{2},{3}" BaseTileLevel="0" TileLevels="11" BaseDegreesPerTile="180" FileType=".png" BottomsUp="False"
-				Projection="Toast" QuadTreeMap="" CenterX="0" CenterY="0" OffsetX="0" OffsetY="0" Rotation="0" Sparse="False" ElevationModel="False" StockSet="False">
-				<ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=glimpsetn</ThumbnailUrl>
-				<Credits>NASA/JPL-Caltech/Univ. of Wisconsin. The GLIMPSE survey was performed using the Spitzer Space Telescope.</Credits>
-				<CreditsUrl>http://www.astro.wisc.edu/sirtf/</CreditsUrl>
-			</ImageSet>
-		</ForegroundImageSet>
+		<ImageSet Generic="False" DataSetType="Sky" BandPass="IR" Name="GLIMPSE/MIPSGAL" Url="http://www.worldwidetelescope.org/wwtweb/glimpse.aspx?q={1},{2},{3}" BaseTileLevel="0" TileLevels="11" BaseDegreesPerTile="180" FileType=".png" BottomsUp="False"
+			Projection="Toast" QuadTreeMap="" CenterX="0" CenterY="0" OffsetX="0" OffsetY="0" Rotation="0" Sparse="False" ElevationModel="False" StockSet="False">
+			<ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=glimpsetn</ThumbnailUrl>
+			<Credits>NASA/JPL-Caltech/Univ. of Wisconsin. The GLIMPSE survey was performed using the Spitzer Space Telescope.</Credits>
+			<CreditsUrl>http://www.astro.wisc.edu/sirtf/</CreditsUrl>
+		</ImageSet>
 	</ImageSet>
 	<ImageSet Name="GLIMPSE/MIPSGAL" DataSetType="Sky" RA="17.75" Dec="-28.9" Constellation="SGR" Classification="Galactic" Magnitude="0" ZoomLevel="0" Rotation="0" Angle="0"
 		Opacity="100" AngularSize="360">
-		<ForegroundImageSet>
-			<ImageSet Generic="False" DataSetType="Sky" BandPass="IR" Name="GLIMPSE/MIPSGAL" Url="http://www.worldwidetelescope.org/wwtweb/mipsgal.aspx?q={1},{2},{3}" BaseTileLevel="0" TileLevels="11" BaseDegreesPerTile="180" FileType=".png" BottomsUp="False"
-				Projection="Toast" QuadTreeMap="" CenterX="0" CenterY="0" OffsetX="0" OffsetY="0" Rotation="0" Sparse="False" ElevationModel="False" StockSet="False">
-				<ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=glimpsemipsgaltn	</ThumbnailUrl>
-				<Credits>NASA/JPL-Caltech/Univ. of Wisconsin. The GLIMPSE survey was performed using the Spitzer Space Telescope.</Credits>
-				<CreditsUrl>http://www.astro.wisc.edu/sirtf/</CreditsUrl>
-			</ImageSet>
-		</ForegroundImageSet>
+		<ImageSet Generic="False" DataSetType="Sky" BandPass="IR" Name="GLIMPSE/MIPSGAL" Url="http://www.worldwidetelescope.org/wwtweb/mipsgal.aspx?q={1},{2},{3}" BaseTileLevel="0" TileLevels="11" BaseDegreesPerTile="180" FileType=".png" BottomsUp="False"
+			Projection="Toast" QuadTreeMap="" CenterX="0" CenterY="0" OffsetX="0" OffsetY="0" Rotation="0" Sparse="False" ElevationModel="False" StockSet="False">
+			<ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=glimpsemipsgaltn	</ThumbnailUrl>
+			<Credits>NASA/JPL-Caltech/Univ. of Wisconsin. The GLIMPSE survey was performed using the Spitzer Space Telescope.</Credits>
+			<CreditsUrl>http://www.astro.wisc.edu/sirtf/</CreditsUrl>
+		</ImageSet>
 	</ImageSet>
 	<ImageSet Generic="False" DataSetType="Sky" BandPass="IR" Name="2Mass: Imagery (Infrared)" Url="http://www.worldwidetelescope.org/wwtweb/TwoMassToast.aspx?q={1},{2},{3}" BaseTileLevel="0" TileLevels="8" BaseDegreesPerTile="180" FileType=".png" BottomsUp="False"
 		Projection="Toast" QuadTreeMap="0123" CenterX="0" CenterY="0" OffsetX="0" OffsetY="0" Rotation="0" Sparse="False" ElevationModel="False" StockSet="False">
@@ -167,15 +161,13 @@ Credit: NASA and FERMI-LAT Team.</Credits>
 	</ImageSet>
 	<ImageSet Name="Big Picture" DataSetType="Sky" RA="12.390277777777778" Dec="13.27" Constellation="VIR" Classification="Stellar" Magnitude="0" ZoomLevel="0" Rotation="0" Angle="0"
 		Opacity="100" AngularSize="360">
-		<ForegroundImageSet>
-			<ImageSet Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wtl11{Q}?g=155&amp;band=wwt_rgb" TileLevels="13" WidthFactor="2" Sparse="False" Rotation="0" QuadTreeMap="0123" Projection="Equirectangular"
-				Name="Big Picture (Optical)" FileType=".png" CenterY="0" CenterX="0" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0"
-				BaseDegreesPerTile="180">
-				<Credits>George Djorgovski, IPAC/CalTech. This single continuous digital sky image is a cut through the core of the Virgo Cluster of galaxies, derived from the Palomar-Quest digital sky survey. This image contains nearly a million faint galaxies, about half a million stars in our Milky Way and about a thousand distant quasars.</Credits>
-				<CreditsUrl>http://bigpicture.caltech.edu/</CreditsUrl>
-				<ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=dss</ThumbnailUrl>
-			</ImageSet>
-		</ForegroundImageSet>
+		<ImageSet Generic="False" DataSetType="Sky" BandPass="Visible" Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wtl11{Q}?g=155&amp;band=wwt_rgb" TileLevels="13" WidthFactor="2" Sparse="False" Rotation="0" QuadTreeMap="0123" Projection="Equirectangular"
+			Name="Big Picture (Optical)" FileType=".png" CenterY="0" CenterX="0" BottomsUp="False" StockSet="False" ElevationModel="False" OffsetX="0" OffsetY="0" BaseTileLevel="0"
+			BaseDegreesPerTile="180">
+			<Credits>George Djorgovski, IPAC/CalTech. This single continuous digital sky image is a cut through the core of the Virgo Cluster of galaxies, derived from the Palomar-Quest digital sky survey. This image contains nearly a million faint galaxies, about half a million stars in our Milky Way and about a thousand distant quasars.</Credits>
+			<CreditsUrl>http://bigpicture.caltech.edu/</CreditsUrl>
+			<ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=dss</ThumbnailUrl>
+		</ImageSet>
 	</ImageSet>
 	<ImageSet Generic="False" DataSetType="Sky" BandPass="Visible" Name="Black Sky Background" Url="" BaseTileLevel="0" TileLevels="0" BaseDegreesPerTile="180" FileType=".png" BottomsUp="False"
 		Projection="Toast" QuadTreeMap="0123" CenterX="0" CenterY="0" OffsetX="0" OffsetY="0" Rotation="0" Sparse="False" ElevationModel="False" StockSet="False">
